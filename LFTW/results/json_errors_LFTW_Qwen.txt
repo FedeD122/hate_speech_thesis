@@ -10,4 +10,3 @@
     "Religion": "absent",
     "Sexual Orientation": "absent"
 }
-----------------------------------------
