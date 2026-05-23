@@ -22,4 +22,3 @@
             "Religion": "absent",
             "Sexual Orientation": "gay"
         }
-----------------------------------------
