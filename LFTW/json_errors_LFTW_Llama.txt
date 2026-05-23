@@ -1,0 +1,13 @@
+{
+  "Abuse": "stinks like a sweaty paki, stop trying to make everyone feel dumb cause they arent an unemployed twat.",
+  "Derogation": "paki, twat",
+  "Animosity": "stop trying to make everyone feel dumb",
+  "Threatening language": "absent",
+  "Support for hateful entities": "absent",
+  "Dehumanization": "stinks",
+  "Ethnicity": "paki",
+  "Gender": "absent",
+  "Religion": "absent",
+  "Sexual Orientation": "twat"
+}
+----------------------------------------

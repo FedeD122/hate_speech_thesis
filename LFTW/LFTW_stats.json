@@ -1,0 +1,1805 @@
+{
+  "total_hate_rows": 15065,
+  "types": [
+    {
+      "type": "derogation",
+      "count": 9907
+    },
+    {
+      "type": "animosity",
+      "count": 3439
+    },
+    {
+      "type": "dehumanization",
+      "count": 906
+    },
+    {
+      "type": "threatening",
+      "count": 606
+    },
+    {
+      "type": "support",
+      "count": 207
+    }
+  ],
+  "targets": [
+    {
+      "target": "wom",
+      "count": 2035
+    },
+    {
+      "target": "bla",
+      "count": 1961
+    },
+    {
+      "target": "jew",
+      "count": 1096
+    },
+    {
+      "target": "mus",
+      "count": 1002
+    },
+    {
+      "target": "trans",
+      "count": 792
+    },
+    {
+      "target": "gay",
+      "count": 724
+    },
+    {
+      "target": "immig",
+      "count": 672
+    },
+    {
+      "target": "dis",
+      "count": 489
+    },
+    {
+      "target": "ref",
+      "count": 470
+    },
+    {
+      "target": "asi.south",
+      "count": 338
+    },
+    {
+      "target": "arab",
+      "count": 338
+    },
+    {
+      "target": "asi.chin",
+      "count": 278
+    },
+    {
+      "target": "gay.man",
+      "count": 271
+    },
+    {
+      "target": "non.white",
+      "count": 260
+    },
+    {
+      "target": "gay.wom",
+      "count": 246
+    },
+    {
+      "target": "indig",
+      "count": 239
+    },
+    {
+      "target": "trav",
+      "count": 217
+    },
+    {
+      "target": "wc",
+      "count": 211
+    },
+    {
+      "target": "mixed.race",
+      "count": 201
+    },
+    {
+      "target": "asi.east",
+      "count": 188
+    },
+    {
+      "target": "bla.wom",
+      "count": 186
+    },
+    {
+      "target": "gendermin",
+      "count": 178
+    },
+    {
+      "target": "for",
+      "count": 167
+    },
+    {
+      "target": "asi",
+      "count": 139
+    },
+    {
+      "target": "notargetrecorded",
+      "count": 129
+    },
+    {
+      "target": "african",
+      "count": 123
+    },
+    {
+      "target": "hispanic",
+      "count": 119
+    },
+    {
+      "target": "mus.wom",
+      "count": 117
+    },
+    {
+      "target": "pol",
+      "count": 88
+    },
+    {
+      "target": "asi.pak",
+      "count": 85
+    },
+    {
+      "target": "asi.wom",
+      "count": 74
+    },
+    {
+      "target": "bla.man",
+      "count": 71
+    },
+    {
+      "target": "nazis",
+      "count": 71
+    },
+    {
+      "target": "asylum",
+      "count": 67
+    },
+    {
+      "target": "bis",
+      "count": 57
+    },
+    {
+      "target": "bla, jew",
+      "count": 50
+    },
+    {
+      "target": "eastern.europe",
+      "count": 49
+    },
+    {
+      "target": "trans, gendermin",
+      "count": 39
+    },
+    {
+      "target": "hitler",
+      "count": 38
+    },
+    {
+      "target": "gay.wom, gay.man",
+      "count": 29
+    },
+    {
+      "target": "ethnic.minority",
+      "count": 28
+    },
+    {
+      "target": "immig, non.white",
+      "count": 27
+    },
+    {
+      "target": "mus, jew",
+      "count": 27
+    },
+    {
+      "target": "bla, wom",
+      "count": 25
+    },
+    {
+      "target": "trans, gay",
+      "count": 23
+    },
+    {
+      "target": "old.people",
+      "count": 23
+    },
+    {
+      "target": "lgbtq",
+      "count": 21
+    },
+    {
+      "target": "bla, mixed.race",
+      "count": 20
+    },
+    {
+      "target": "indig.wom",
+      "count": 20
+    },
+    {
+      "target": "mus, arab",
+      "count": 19
+    },
+    {
+      "target": "immig, ref",
+      "count": 17
+    },
+    {
+      "target": "bla, non.white",
+      "count": 17
+    },
+    {
+      "target": "russian",
+      "count": 15
+    },
+    {
+      "target": "trans, wom",
+      "count": 15
+    },
+    {
+      "target": "immig, hispanic",
+      "count": 15
+    },
+    {
+      "target": "asi.man",
+      "count": 14
+    },
+    {
+      "target": "mus, immig",
+      "count": 14
+    },
+    {
+      "target": "gay, gay.wom",
+      "count": 14
+    },
+    {
+      "target": "bla, hispanic",
+      "count": 13
+    },
+    {
+      "target": "bla, african",
+      "count": 13
+    },
+    {
+      "target": "mus, ref",
+      "count": 12
+    },
+    {
+      "target": "trans, gay.wom, gay.man, bis",
+      "count": 11
+    },
+    {
+      "target": "dis, wom",
+      "count": 11
+    },
+    {
+      "target": "mixed.race, non.white",
+      "count": 11
+    },
+    {
+      "target": "dis, bla",
+      "count": 11
+    },
+    {
+      "target": "bla, immig",
+      "count": 11
+    },
+    {
+      "target": "jew, non.white",
+      "count": 11
+    },
+    {
+      "target": "non.white.wom",
+      "count": 10
+    },
+    {
+      "target": "gay, bis",
+      "count": 10
+    },
+    {
+      "target": "dis, gay",
+      "count": 10
+    },
+    {
+      "target": "for, immig",
+      "count": 9
+    },
+    {
+      "target": "dis, trans",
+      "count": 9
+    },
+    {
+      "target": "arab, ref",
+      "count": 9
+    },
+    {
+      "target": "bla, jew, non.white",
+      "count": 9
+    },
+    {
+      "target": "other.glorification",
+      "count": 9
+    },
+    {
+      "target": "bla, gay",
+      "count": 8
+    },
+    {
+      "target": "asi.south, asi.pak",
+      "count": 8
+    },
+    {
+      "target": "trans, gay, bis",
+      "count": 8
+    },
+    {
+      "target": "trans, gay.wom",
+      "count": 8
+    },
+    {
+      "target": "mus, bla",
+      "count": 8
+    },
+    {
+      "target": NaN,
+      "count": 8
+    },
+    {
+      "target": "jew, mixed.race",
+      "count": 7
+    },
+    {
+      "target": "gendermin, gay",
+      "count": 7
+    },
+    {
+      "target": "jew, gay",
+      "count": 7
+    },
+    {
+      "target": "trav, jew",
+      "count": 7
+    },
+    {
+      "target": "trans, gay.man",
+      "count": 7
+    },
+    {
+      "target": "other.national",
+      "count": 7
+    },
+    {
+      "target": "wom, gay",
+      "count": 6
+    },
+    {
+      "target": "trans, gay, gay.wom, bis",
+      "count": 6
+    },
+    {
+      "target": "mus, wom",
+      "count": 6
+    },
+    {
+      "target": "jew, immig",
+      "count": 6
+    },
+    {
+      "target": "mus, non.white",
+      "count": 6
+    },
+    {
+      "target": "wom, gay.man",
+      "count": 6
+    },
+    {
+      "target": "immig, ref, asylum",
+      "count": 6
+    },
+    {
+      "target": "mus, gay",
+      "count": 5
+    },
+    {
+      "target": "wom, non.white",
+      "count": 5
+    },
+    {
+      "target": "jew, arab",
+      "count": 5
+    },
+    {
+      "target": "asi, asi.chin",
+      "count": 5
+    },
+    {
+      "target": "bla, trans",
+      "count": 5
+    },
+    {
+      "target": "trav, bla",
+      "count": 5
+    },
+    {
+      "target": "trav, wc",
+      "count": 4
+    },
+    {
+      "target": "trans, gendermin, gay",
+      "count": 4
+    },
+    {
+      "target": "bla, bla.wom",
+      "count": 4
+    },
+    {
+      "target": "wom, mixed.race",
+      "count": 4
+    },
+    {
+      "target": "immig, asi.pak",
+      "count": 4
+    },
+    {
+      "target": "other.religion",
+      "count": 4
+    },
+    {
+      "target": "bla, asi.south, asi.chin, non.white, asi.pak",
+      "count": 4
+    },
+    {
+      "target": "wom, mus.wom",
+      "count": 4
+    },
+    {
+      "target": "wom, gay.wom",
+      "count": 4
+    },
+    {
+      "target": "bla.wom, bla.man",
+      "count": 4
+    },
+    {
+      "target": "bla, asi, hispanic",
+      "count": 4
+    },
+    {
+      "target": "mus, asi.pak",
+      "count": 4
+    },
+    {
+      "target": "asi, hispanic",
+      "count": 4
+    },
+    {
+      "target": "wom, hispanic",
+      "count": 4
+    },
+    {
+      "target": "mus, african",
+      "count": 4
+    },
+    {
+      "target": "bla, asi.east",
+      "count": 4
+    },
+    {
+      "target": "wc, immig",
+      "count": 4
+    },
+    {
+      "target": "arab, african",
+      "count": 4
+    },
+    {
+      "target": "asi.east, non.white",
+      "count": 4
+    },
+    {
+      "target": "bla, asi.south",
+      "count": 3
+    },
+    {
+      "target": "bla, for",
+      "count": 3
+    },
+    {
+      "target": "asi, asi.wom",
+      "count": 3
+    },
+    {
+      "target": "wom, gendermin",
+      "count": 3
+    },
+    {
+      "target": "mixed.race, asi",
+      "count": 3
+    },
+    {
+      "target": "mus, mus.wom",
+      "count": 3
+    },
+    {
+      "target": "dis, mixed.race",
+      "count": 3
+    },
+    {
+      "target": "immig, eastern.europe",
+      "count": 3
+    },
+    {
+      "target": "bla, indig",
+      "count": 3
+    },
+    {
+      "target": "bla, asi",
+      "count": 3
+    },
+    {
+      "target": "bla, gay.man",
+      "count": 3
+    },
+    {
+      "target": "bla, wom, gay",
+      "count": 3
+    },
+    {
+      "target": "wom, gay.wom, gay.man",
+      "count": 3
+    },
+    {
+      "target": "bla, trans, gay",
+      "count": 3
+    },
+    {
+      "target": "mixed.race, immig",
+      "count": 3
+    },
+    {
+      "target": "bla, wom, non.white",
+      "count": 3
+    },
+    {
+      "target": "wom, jew",
+      "count": 3
+    },
+    {
+      "target": "dis, asi.chin",
+      "count": 3
+    },
+    {
+      "target": "bla, ethnic.minority",
+      "count": 3
+    },
+    {
+      "target": "wom, jew, non.white",
+      "count": 3
+    },
+    {
+      "target": "bla, lgbtq",
+      "count": 3
+    },
+    {
+      "target": "bla, wc",
+      "count": 2
+    },
+    {
+      "target": "jew, ref",
+      "count": 2
+    },
+    {
+      "target": "bla, mixed.race, non.white",
+      "count": 2
+    },
+    {
+      "target": "wom, wc",
+      "count": 2
+    },
+    {
+      "target": "gay.man, bis",
+      "count": 2
+    },
+    {
+      "target": "gendermin, bis",
+      "count": 2
+    },
+    {
+      "target": "indig, mixed.race",
+      "count": 2
+    },
+    {
+      "target": "asi.south, hispanic",
+      "count": 2
+    },
+    {
+      "target": "gay, non.white",
+      "count": 2
+    },
+    {
+      "target": "asi.south, asi",
+      "count": 2
+    },
+    {
+      "target": "bla, jew, asi, non.white",
+      "count": 2
+    },
+    {
+      "target": "asi.south, immig",
+      "count": 2
+    },
+    {
+      "target": "mus, mixed.race",
+      "count": 2
+    },
+    {
+      "target": "bla, wom, mixed.race",
+      "count": 2
+    },
+    {
+      "target": "dis, asi.south",
+      "count": 2
+    },
+    {
+      "target": "asi, asi.man",
+      "count": 2
+    },
+    {
+      "target": "trans, wom, gay",
+      "count": 2
+    },
+    {
+      "target": "jew, asi.chin",
+      "count": 2
+    },
+    {
+      "target": "gay.wom, gay.man, bis",
+      "count": 2
+    },
+    {
+      "target": "arab, asi.chin",
+      "count": 2
+    },
+    {
+      "target": "dis, african",
+      "count": 2
+    },
+    {
+      "target": "asi.east, asi.chin",
+      "count": 2
+    },
+    {
+      "target": "asi, non.white",
+      "count": 2
+    },
+    {
+      "target": "bla, asi, non.white",
+      "count": 2
+    },
+    {
+      "target": "trans, bis",
+      "count": 2
+    },
+    {
+      "target": "dis, ref",
+      "count": 2
+    },
+    {
+      "target": "trans, jew",
+      "count": 2
+    },
+    {
+      "target": "bla, jew, mixed.race",
+      "count": 2
+    },
+    {
+      "target": "wom, asi.wom",
+      "count": 2
+    },
+    {
+      "target": "dis, immig",
+      "count": 2
+    },
+    {
+      "target": "asi.east, asi",
+      "count": 2
+    },
+    {
+      "target": "bla, arab",
+      "count": 2
+    },
+    {
+      "target": "bla, ref",
+      "count": 2
+    },
+    {
+      "target": "asi.south, asi.east",
+      "count": 2
+    },
+    {
+      "target": "nazis, hitler",
+      "count": 2
+    },
+    {
+      "target": "for, asi.east",
+      "count": 2
+    },
+    {
+      "target": "ethnic.minority, immig",
+      "count": 2
+    },
+    {
+      "target": "immig, asylum",
+      "count": 2
+    },
+    {
+      "target": "jew, mixed.race, non.white",
+      "count": 2
+    },
+    {
+      "target": "gay, gay.wom, bis",
+      "count": 2
+    },
+    {
+      "target": "wom, jew, gay",
+      "count": 2
+    },
+    {
+      "target": "bla, asi.wom",
+      "count": 2
+    },
+    {
+      "target": "dis, gay.wom, gay.man",
+      "count": 2
+    },
+    {
+      "target": "dis, for",
+      "count": 2
+    },
+    {
+      "target": "dis, wc",
+      "count": 2
+    },
+    {
+      "target": "bla.wom, non.white, asi.wom",
+      "count": 2
+    },
+    {
+      "target": "trans, gay.wom, gay.man",
+      "count": 2
+    },
+    {
+      "target": "african, asylum",
+      "count": 2
+    },
+    {
+      "target": "trav, bla, jew",
+      "count": 2
+    },
+    {
+      "target": "wom, bla.wom",
+      "count": 2
+    },
+    {
+      "target": "mus, trans",
+      "count": 2
+    },
+    {
+      "target": "trav, asi.south",
+      "count": 2
+    },
+    {
+      "target": "trav, eastern.europe",
+      "count": 2
+    },
+    {
+      "target": "trav, gendermin",
+      "count": 2
+    },
+    {
+      "target": "wom, arab",
+      "count": 2
+    },
+    {
+      "target": "dis, trans, bis",
+      "count": 2
+    },
+    {
+      "target": "for, hispanic",
+      "count": 2
+    },
+    {
+      "target": "for, gay",
+      "count": 2
+    },
+    {
+      "target": "dis, for, hispanic",
+      "count": 2
+    },
+    {
+      "target": "jew, for, hispanic",
+      "count": 1
+    },
+    {
+      "target": "bla, wom, hispanic, lgbtq",
+      "count": 1
+    },
+    {
+      "target": "mus, arab, other.religion",
+      "count": 1
+    },
+    {
+      "target": "pol, eastern.europe",
+      "count": 1
+    },
+    {
+      "target": "trav, jew, arab",
+      "count": 1
+    },
+    {
+      "target": "ref, lgbtq",
+      "count": 1
+    },
+    {
+      "target": "mus, bla, asi.south, non.white",
+      "count": 1
+    },
+    {
+      "target": "bla.wom, mixed.race",
+      "count": 1
+    },
+    {
+      "target": "wc, asi.south",
+      "count": 1
+    },
+    {
+      "target": "trav, jew, gendermin",
+      "count": 1
+    },
+    {
+      "target": "bla, wom, immig",
+      "count": 1
+    },
+    {
+      "target": "asi.east, ref",
+      "count": 1
+    },
+    {
+      "target": "mus, wom, for, asi.east, immig",
+      "count": 1
+    },
+    {
+      "target": "trans, gendermin, gay, gay.wom, bis",
+      "count": 1
+    },
+    {
+      "target": "trans, gendermin, gay, gay.wom",
+      "count": 1
+    },
+    {
+      "target": "dis, asi.east",
+      "count": 1
+    },
+    {
+      "target": "wc, immig, ref",
+      "count": 1
+    },
+    {
+      "target": "mus, bla, non.white, african",
+      "count": 1
+    },
+    {
+      "target": "bla, mixed.race, gay",
+      "count": 1
+    },
+    {
+      "target": "bla, for, asi.south",
+      "count": 1
+    },
+    {
+      "target": "bla, trans, jew",
+      "count": 1
+    },
+    {
+      "target": "mus, arab, african",
+      "count": 1
+    },
+    {
+      "target": "mus, bla, arab",
+      "count": 1
+    },
+    {
+      "target": "mus, gay.wom",
+      "count": 1
+    },
+    {
+      "target": "mus, mixed.race, immig",
+      "count": 1
+    },
+    {
+      "target": "indig, gendermin, gay",
+      "count": 1
+    },
+    {
+      "target": "indig, indig.wom",
+      "count": 1
+    },
+    {
+      "target": "bla, old.people",
+      "count": 1
+    },
+    {
+      "target": "ref, non.white",
+      "count": 1
+    },
+    {
+      "target": "immig, asi.chin",
+      "count": 1
+    },
+    {
+      "target": "indig, ref",
+      "count": 1
+    },
+    {
+      "target": "mus, immig, ref",
+      "count": 1
+    },
+    {
+      "target": "dis, bla, non.white",
+      "count": 1
+    },
+    {
+      "target": "gendermin, non.white",
+      "count": 1
+    },
+    {
+      "target": "trans, for",
+      "count": 1
+    },
+    {
+      "target": "dis, bla, trans, mixed.race, gay",
+      "count": 1
+    },
+    {
+      "target": "dis, asi.man",
+      "count": 1
+    },
+    {
+      "target": "mixed.race, gay",
+      "count": 1
+    },
+    {
+      "target": "bla.wom, asi.chin",
+      "count": 1
+    },
+    {
+      "target": "asi.south, arab",
+      "count": 1
+    },
+    {
+      "target": "dis, mus, wc",
+      "count": 1
+    },
+    {
+      "target": "trans, asi.wom",
+      "count": 1
+    },
+    {
+      "target": "mixed.race, asi.chin",
+      "count": 1
+    },
+    {
+      "target": "trans, wom, pol, asi.south",
+      "count": 1
+    },
+    {
+      "target": "bla.wom, asi.south, mixed.race",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, hispanic",
+      "count": 1
+    },
+    {
+      "target": "dis, mixed.race, non.white",
+      "count": 1
+    },
+    {
+      "target": "trans, wom, gendermin, gay",
+      "count": 1
+    },
+    {
+      "target": "trans, gendermin, non.white",
+      "count": 1
+    },
+    {
+      "target": "wom, for",
+      "count": 1
+    },
+    {
+      "target": "bla, trans, jew, gay, arab",
+      "count": 1
+    },
+    {
+      "target": "trav, mus, hispanic",
+      "count": 1
+    },
+    {
+      "target": "indig, non.white, african",
+      "count": 1
+    },
+    {
+      "target": "dis, non.white, african",
+      "count": 1
+    },
+    {
+      "target": "jew, gay.man",
+      "count": 1
+    },
+    {
+      "target": "pol, russian",
+      "count": 1
+    },
+    {
+      "target": "bla, wom, jew, mixed.race",
+      "count": 1
+    },
+    {
+      "target": "mus, bla, jew, asi.chin",
+      "count": 1
+    },
+    {
+      "target": "bla.wom, non.white",
+      "count": 1
+    },
+    {
+      "target": "wom, ethnic.minority",
+      "count": 1
+    },
+    {
+      "target": "bla, asi.south, mixed.race, arab, asi.pak",
+      "count": 1
+    },
+    {
+      "target": "pol, jew, gay.man, russian",
+      "count": 1
+    },
+    {
+      "target": "mus, jew, arab",
+      "count": 1
+    },
+    {
+      "target": "hispanic, african",
+      "count": 1
+    },
+    {
+      "target": "bla, trans, gay.man",
+      "count": 1
+    },
+    {
+      "target": "asi.east, gay",
+      "count": 1
+    },
+    {
+      "target": "bla.wom, gay.man",
+      "count": 1
+    },
+    {
+      "target": "dis, trans, gay",
+      "count": 1
+    },
+    {
+      "target": "trans, wom, non.white",
+      "count": 1
+    },
+    {
+      "target": "bla, for, ref",
+      "count": 1
+    },
+    {
+      "target": "gendermin, arab",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, arab",
+      "count": 1
+    },
+    {
+      "target": "jew, gendermin",
+      "count": 1
+    },
+    {
+      "target": "gay, gay.man",
+      "count": 1
+    },
+    {
+      "target": "dis, gendermin",
+      "count": 1
+    },
+    {
+      "target": "mus, bla, trans, jew, gay, hispanic",
+      "count": 1
+    },
+    {
+      "target": "for, ref",
+      "count": 1
+    },
+    {
+      "target": "trans, immig",
+      "count": 1
+    },
+    {
+      "target": "asi.south, gay",
+      "count": 1
+    },
+    {
+      "target": "asi.south, mixed.race",
+      "count": 1
+    },
+    {
+      "target": "dis, bla, wom, gay, immig",
+      "count": 1
+    },
+    {
+      "target": "wom, pol",
+      "count": 1
+    },
+    {
+      "target": "mixed.race, hispanic, non.white",
+      "count": 1
+    },
+    {
+      "target": "dis, gay.man",
+      "count": 1
+    },
+    {
+      "target": "bla, arab, hispanic, non.white",
+      "count": 1
+    },
+    {
+      "target": "for, non.white",
+      "count": 1
+    },
+    {
+      "target": "jew, bla.man",
+      "count": 1
+    },
+    {
+      "target": "gendermin, gay.wom, gay.man",
+      "count": 1
+    },
+    {
+      "target": "bla, gay.wom, gay.man",
+      "count": 1
+    },
+    {
+      "target": "trans, wom, jew, gay, bis",
+      "count": 1
+    },
+    {
+      "target": "mus, jew, immig",
+      "count": 1
+    },
+    {
+      "target": "bla.wom, jew",
+      "count": 1
+    },
+    {
+      "target": "wom, asi",
+      "count": 1
+    },
+    {
+      "target": "asi.south, african",
+      "count": 1
+    },
+    {
+      "target": "trans, gendermin, bis",
+      "count": 1
+    },
+    {
+      "target": "mixed.race, arab, hispanic, non.white",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, gay",
+      "count": 1
+    },
+    {
+      "target": "dis, ethnic.minority",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, gay.man",
+      "count": 1
+    },
+    {
+      "target": "indig, asi.south, asi, african",
+      "count": 1
+    },
+    {
+      "target": "mus, arab, non.white, asi.pak",
+      "count": 1
+    },
+    {
+      "target": "gendermin, gay.wom, bis",
+      "count": 1
+    },
+    {
+      "target": "mus, bla, immig, non.white",
+      "count": 1
+    },
+    {
+      "target": "asi, non.white, african",
+      "count": 1
+    },
+    {
+      "target": "mus, bla, non.white",
+      "count": 1
+    },
+    {
+      "target": "dis, trans, gendermin",
+      "count": 1
+    },
+    {
+      "target": "mus, jew, immig, arab",
+      "count": 1
+    },
+    {
+      "target": "dis, bla, wom, jew, arab, non.white",
+      "count": 1
+    },
+    {
+      "target": "wom, jew, mixed.race, non.white",
+      "count": 1
+    },
+    {
+      "target": "wc, eastern.europe",
+      "count": 1
+    },
+    {
+      "target": "bla, gay, gay.wom",
+      "count": 1
+    },
+    {
+      "target": "jew, immig, non.white",
+      "count": 1
+    },
+    {
+      "target": "gay.wom, gay.man, non.white",
+      "count": 1
+    },
+    {
+      "target": "gay, arab, african",
+      "count": 1
+    },
+    {
+      "target": "dis, mus, wom",
+      "count": 1
+    },
+    {
+      "target": "mus, bla, gay",
+      "count": 1
+    },
+    {
+      "target": "trans, gay, non.white",
+      "count": 1
+    },
+    {
+      "target": "dis, indig",
+      "count": 1
+    },
+    {
+      "target": "bla, trans, jew, arab, gay.man, asi.chin",
+      "count": 1
+    },
+    {
+      "target": "trans, wom, jew, gendermin",
+      "count": 1
+    },
+    {
+      "target": "trans, wom, gendermin",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, african",
+      "count": 1
+    },
+    {
+      "target": "asi.chin, african",
+      "count": 1
+    },
+    {
+      "target": "mus, asi.south",
+      "count": 1
+    },
+    {
+      "target": "dis, bla, ref",
+      "count": 1
+    },
+    {
+      "target": "trans, immig, non.white",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, asi.south",
+      "count": 1
+    },
+    {
+      "target": "trans, wom, gay.wom, gay.man, non.white, bis",
+      "count": 1
+    },
+    {
+      "target": "trans, gendermin, gay.man",
+      "count": 1
+    },
+    {
+      "target": "non.white, bla.man",
+      "count": 1
+    },
+    {
+      "target": "jew, gay, asi.chin",
+      "count": 1
+    },
+    {
+      "target": "gay, ref",
+      "count": 1
+    },
+    {
+      "target": "bla, bla.wom, mixed.race, non.white",
+      "count": 1
+    },
+    {
+      "target": "immig, arab, ref",
+      "count": 1
+    },
+    {
+      "target": "mus, hispanic, ref",
+      "count": 1
+    },
+    {
+      "target": "wom, bis",
+      "count": 1
+    },
+    {
+      "target": "trans, gay, gay.wom",
+      "count": 1
+    },
+    {
+      "target": "indig, asi.south",
+      "count": 1
+    },
+    {
+      "target": "asi.south, immig, asi.pak",
+      "count": 1
+    },
+    {
+      "target": "dis, mus",
+      "count": 1
+    },
+    {
+      "target": "gendermin, gay.wom",
+      "count": 1
+    },
+    {
+      "target": "trav, bla, indig, arab, hispanic",
+      "count": 1
+    },
+    {
+      "target": "mixed.race, asi, asi.wom",
+      "count": 1
+    },
+    {
+      "target": "asi.south, asi.chin, asi.pak",
+      "count": 1
+    },
+    {
+      "target": "asi.wom, bla.man",
+      "count": 1
+    },
+    {
+      "target": "bla, wom, gay.man",
+      "count": 1
+    },
+    {
+      "target": "trav, indig",
+      "count": 1
+    },
+    {
+      "target": "bla.man, asi.man",
+      "count": 1
+    },
+    {
+      "target": "bla, asi.east, hispanic",
+      "count": 1
+    },
+    {
+      "target": "jew, indig",
+      "count": 1
+    },
+    {
+      "target": "trav, arab",
+      "count": 1
+    },
+    {
+      "target": "arab, ref, african",
+      "count": 1
+    },
+    {
+      "target": "asi, asi.chin, asi.wom",
+      "count": 1
+    },
+    {
+      "target": "jew, mus.wom",
+      "count": 1
+    },
+    {
+      "target": "gay, lgbtq",
+      "count": 1
+    },
+    {
+      "target": "asi.chin, asi.pak",
+      "count": 1
+    },
+    {
+      "target": "immig, african",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, asi.east",
+      "count": 1
+    },
+    {
+      "target": "bla, gay, non.white",
+      "count": 1
+    },
+    {
+      "target": "dis, trans, wom, gendermin",
+      "count": 1
+    },
+    {
+      "target": "hispanic, non.white",
+      "count": 1
+    },
+    {
+      "target": "wom, asi.south",
+      "count": 1
+    },
+    {
+      "target": "wom, jew, gendermin",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, asi",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, mixed.race, asi",
+      "count": 1
+    },
+    {
+      "target": "for, bla.man",
+      "count": 1
+    },
+    {
+      "target": "jew, asi, non.white",
+      "count": 1
+    },
+    {
+      "target": "pol, arab",
+      "count": 1
+    },
+    {
+      "target": "asi.south, asi.chin",
+      "count": 1
+    },
+    {
+      "target": "bla, wom, jew, asi",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, immig, hispanic",
+      "count": 1
+    },
+    {
+      "target": "bla, asi.chin",
+      "count": 1
+    },
+    {
+      "target": "bla, asi.pak",
+      "count": 1
+    },
+    {
+      "target": "immig, asi.wom",
+      "count": 1
+    },
+    {
+      "target": "asi.south, immig, asi.chin, non.white",
+      "count": 1
+    },
+    {
+      "target": "asi.east, hispanic",
+      "count": 1
+    },
+    {
+      "target": "bla, jew, indig",
+      "count": 1
+    },
+    {
+      "target": "jew, mixed.race, asi.wom",
+      "count": 1
+    },
+    {
+      "target": "non.white, asi.wom, asi.man",
+      "count": 1
+    },
+    {
+      "target": "wom, asi.east",
+      "count": 1
+    },
+    {
+      "target": "non.white, bla.man, asi.man",
+      "count": 1
+    },
+    {
+      "target": "mus, gendermin",
+      "count": 1
+    },
+    {
+      "target": "mus, wom, immig",
+      "count": 1
+    },
+    {
+      "target": "bla, indig, asi, hispanic",
+      "count": 1
+    },
+    {
+      "target": "hispanic, asi.man",
+      "count": 1
+    },
+    {
+      "target": "mus, bla, jew, mixed.race",
+      "count": 1
+    },
+    {
+      "target": "mus, hispanic",
+      "count": 1
+    },
+    {
+      "target": "wom, immig",
+      "count": 1
+    },
+    {
+      "target": "dis, bla, hispanic",
+      "count": 1
+    },
+    {
+      "target": "bla, mixed.race, gendermin",
+      "count": 1
+    },
+    {
+      "target": "wom, jew, mixed.race",
+      "count": 1
+    },
+    {
+      "target": "bla, trans, mixed.race, gay.man",
+      "count": 1
+    },
+    {
+      "target": "mus, gay, immig",
+      "count": 1
+    },
+    {
+      "target": "trav, gendermin, immig",
+      "count": 1
+    },
+    {
+      "target": "jew, ethnic.minority",
+      "count": 1
+    },
+    {
+      "target": "mus, asylum",
+      "count": 1
+    },
+    {
+      "target": "dis, bla, wom",
+      "count": 1
+    },
+    {
+      "target": "mus, bla, trans, jew",
+      "count": 1
+    },
+    {
+      "target": "bla, asi.south, arab, asi.pak",
+      "count": 1
+    },
+    {
+      "target": "bla.wom, asi.south",
+      "count": 1
+    },
+    {
+      "target": "bla, bla.man",
+      "count": 1
+    },
+    {
+      "target": "wom, asi.chin",
+      "count": 1
+    },
+    {
+      "target": "wom, bla.man",
+      "count": 1
+    },
+    {
+      "target": "jew, mixed.race, gay",
+      "count": 1
+    },
+    {
+      "target": "trans, lgbtq",
+      "count": 1
+    },
+    {
+      "target": "jew, other.religion",
+      "count": 1
+    },
+    {
+      "target": "asi, immig, asi.chin",
+      "count": 1
+    },
+    {
+      "target": "wom, asi.pak",
+      "count": 1
+    },
+    {
+      "target": "trav, wom",
+      "count": 1
+    }
+  ],
+  "sampled_rows_targets": [
+    {
+      "target": "bla",
+      "count": 15
+    },
+    {
+      "target": "wom",
+      "count": 10
+    },
+    {
+      "target": "jew",
+      "count": 8
+    },
+    {
+      "target": "nazis",
+      "count": 7
+    },
+    {
+      "target": "gay",
+      "count": 6
+    },
+    {
+      "target": "immig",
+      "count": 6
+    },
+    {
+      "target": "trans",
+      "count": 4
+    },
+    {
+      "target": "mus",
+      "count": 4
+    },
+    {
+      "target": "hitler",
+      "count": 3
+    },
+    {
+      "target": "asi.south",
+      "count": 3
+    },
+    {
+      "target": "notargetrecorded",
+      "count": 3
+    },
+    {
+      "target": "asi.east",
+      "count": 2
+    },
+    {
+      "target": "dis",
+      "count": 2
+    },
+    {
+      "target": "gay.man",
+      "count": 2
+    },
+    {
+      "target": "asi.chin",
+      "count": 2
+    },
+    {
+      "target": "asi.wom",
+      "count": 2
+    },
+    {
+      "target": "asi",
+      "count": 2
+    },
+    {
+      "target": "mixed.race",
+      "count": 1
+    },
+    {
+      "target": "ref",
+      "count": 1
+    },
+    {
+      "target": "bla.wom, jew",
+      "count": 1
+    },
+    {
+      "target": "arab",
+      "count": 1
+    },
+    {
+      "target": "immig, ref, asylum",
+      "count": 1
+    },
+    {
+      "target": "mus.wom",
+      "count": 1
+    },
+    {
+      "target": "gendermin, bis",
+      "count": 1
+    },
+    {
+      "target": "trav",
+      "count": 1
+    },
+    {
+      "target": "mus, arab",
+      "count": 1
+    },
+    {
+      "target": "indig",
+      "count": 1
+    },
+    {
+      "target": "wc",
+      "count": 1
+    },
+    {
+      "target": "other.glorification",
+      "count": 1
+    },
+    {
+      "target": NaN,
+      "count": 1
+    },
+    {
+      "target": "non.white.wom",
+      "count": 1
+    },
+    {
+      "target": "eastern.europe",
+      "count": 1
+    },
+    {
+      "target": "immig, hispanic",
+      "count": 1
+    },
+    {
+      "target": "asylum",
+      "count": 1
+    },
+    {
+      "target": "jew, gay",
+      "count": 1
+    },
+    {
+      "target": "gendermin",
+      "count": 1
+    }
+  ]
+}
