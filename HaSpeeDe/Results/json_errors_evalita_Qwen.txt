@@ -1,0 +1,20 @@
+{
+    "Abuse": "absent",
+    "Age": "absent",
+    "Appearance": "absent",
+    "Disability": "absent",
+    "Disease": "absent",
+    "Ethnicity": "absent",
+    "Gender": "absent",
+    "Hate": "absent",
+    "Insult": "absent",
+    "Political Opinion": "La politica che si adotta e\' ormai chiara: lasciare al destino della morte gli italiani e accogliere stranieri che portano sovvenzionamenti.",
+    "Race": "absent",
+    "Discrimination": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Violence": "absent",
+    "Harrassing": "absent",
+    "Insulting": "absent",
+    "Intimidating": "absent"
+}
