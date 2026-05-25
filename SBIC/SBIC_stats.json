@@ -1,0 +1,98 @@
+{
+  "numeric_stats": {
+    "intentYN": {
+      "count": 35424,
+      "mean": 0.48355627391653816,
+      "std": 0.3931215764769779
+    },
+    "sexYN": {
+      "count": 35424,
+      "mean": 0.09536414502327444,
+      "std": 0.2673050189114995
+    },
+    "offensiveYN": {
+      "count": 35424,
+      "mean": 0.5036076202118291,
+      "std": 0.43030591738418766
+    }
+  },
+  "target_stats": {
+    "targetMinority": {
+      "rows": 35424,
+      "non_empty_rows": 12129,
+      "empty_rows": 23295,
+      "non_empty_percentage": 34.24,
+      "distinct_values": 1179,
+      "total_elements": 14983,
+      "top_values": {
+        "women": 2796,
+        "black folks": 2788,
+        "jewish folks": 969,
+        "assault victims": 680,
+        "muslim folks": 480,
+        "gay men": 358,
+        "mass shooting victims": 315,
+        "terrorism victims": 302,
+        "physically disabled folks": 296,
+        "asian folks": 263,
+        "liberals": 240,
+        "mentally disabled folks": 193,
+        "folks with mental illness/disorder": 181,
+        "latino/latina folks": 180,
+        "christian folks": 145,
+        "immigrants": 126,
+        "overweight/fat folks": 115,
+        "holocaust victims": 115,
+        "arabic folks": 96,
+        "lesbian women, gay men": 95
+      }
+    },
+    "targetCategory": {
+      "rows": 35424,
+      "non_empty_rows": 12129,
+      "empty_rows": 23295,
+      "non_empty_percentage": 34.24,
+      "distinct_values": 7,
+      "total_elements": 13752,
+      "top_values": {
+        "race": 3883,
+        "gender": 3535,
+        "culture": 2471,
+        "victim": 2027,
+        "disabled": 753,
+        "social": 642,
+        "body": 441
+      }
+    },
+    "targetStereotype": {
+      "rows": 35424,
+      "non_empty_rows": 12126,
+      "empty_rows": 23298,
+      "non_empty_percentage": 34.23,
+      "distinct_values": 24082,
+      "total_elements": 40948,
+      "top_values": {
+        "trivializes harm to victims": 1344,
+        "trivializes harm to victims.": 256,
+        "women are sex objects": 229,
+        "black people are criminals": 220,
+        "women are bitches": 165,
+        "muslims are terrorists": 151,
+        "women are hoes": 118,
+        "women are stupid": 102,
+        "women are property": 101,
+        "black people are inferior": 101,
+        "black folks are criminals": 97,
+        "black folks are inferior": 96,
+        "women are promiscuous": 96,
+        "black people are worthless": 93,
+        "is inherently bad": 86,
+        "trivializes the holocaust": 83,
+        "are marginalized for a joke": 83,
+        "black people are stupid": 80,
+        "black people are lazy": 78,
+        "black people are slaves": 77
+      }
+    }
+  }
+}
