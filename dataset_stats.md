@@ -1,7 +1,5 @@
 # Dataset Statistics
 
-This document summarizes the key statistics for the two datasets used in this project.
-
 ---
 
 ## 1. Learning from the Worst (LFTW)
@@ -104,4 +102,3 @@ This document summarizes the key statistics for the two datasets used in this pr
 | Black people are inferior | 101 |
 | Black folks are criminals | 97 |
 
-> Full stereotype list (24,082 distinct values) available in `SBIC_stats.json`.
