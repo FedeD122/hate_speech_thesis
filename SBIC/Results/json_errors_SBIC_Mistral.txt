@@ -1,0 +1,20 @@
+{
+            "Offensiveness": "white coke whores",
+            "Intent to offend": "white coke whores",
+            "Group Implications": "white people, women, and possibly a specific age group (from the 80's to the 2000's)",
+            "Implied statement": "The fashion, the thinness, the money",
+            "Lewd/Sexual References": "white coke whores",
+            "In-group language": "aesthetic, the thinness, the money" (These words could be seen as in-group language for a specific culture or social group, but without additional context, it's hard to definitively say),
+            "Ethnicity": "white",
+            "Race": "white",
+            "Disability": "absent",
+            "Body": "thinness",
+            "Age": "from the 80's to the 2000's",
+            "Political": "absent",
+            "Social": "aesthetic, the thinness, the money" (These words could be seen as social references, but without additional context, it's hard to definitively say),
+            "Victims": "absent",
+            "Gender": "female (implied by 'whores')",
+            "Religion": "absent",
+            "Sexuality": "absent",
+            "Culture": "absent"
+        }
