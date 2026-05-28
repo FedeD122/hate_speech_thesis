@@ -16,6 +16,8 @@
 | Threatening | 606 | 4.0% |
 | Support | 207 | 1.4% |
 
+!["Hate Speech Types"](images/lftw_types.png)
+
 ### Top 15 Targets
 
 | Target | Count |
