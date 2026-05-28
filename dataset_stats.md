@@ -16,7 +16,7 @@
 | Threatening | 606 | 4.0% |
 | Support | 207 | 1.4% |
 
-!["Hate Speech Types"](images/lftw_types.png)
+<img src="images/lftw_types.png" alt="Hate Speech Types" height="350px">
 
 ### Top 15 Targets
 
@@ -37,9 +37,6 @@
 | Gay men (`gay.man`) | 271 |
 | Non-white people (`non.white`) | 260 |
 | Gay women (`gay.wom`) | 246 |
-
-
----
 
 ## 2. Social Bias Inference Corpus (SBIC)
 
@@ -73,6 +70,8 @@
 | Social | 642 |
 | Body | 441 |
 
+<img src="images/sbic_categories.png" alt="Target Categories" height="350px">
+
 ### Top 10 Target Minorities
 
 | Minority | Count |
@@ -87,6 +86,8 @@
 | Terrorism victims | 302 |
 | Physically disabled folks | 296 |
 | Asian folks | 263 |
+
+<img src="images/sbic_minorities.png" alt="Target Minorities" height="300px">
 
 ### Top 10 Target Stereotypes
 
