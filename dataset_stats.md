@@ -36,7 +36,6 @@
 | Non-white people (`non.white`) | 260 |
 | Gay women (`gay.wom`) | 246 |
 
-> Full target list available in `LFTW_stats.json`.
 
 ---
 
