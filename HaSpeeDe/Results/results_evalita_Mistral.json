@@ -20,6 +20,26 @@
     "Intimidating": "Dare la casa agli stranieri"
   },
   {
+    "Abuse": "rispedisco",
+    "Ethnicity": "migranti",
+    "Race": "absent",
+    "Age": "absent",
+    "Appearence": "absent",
+    "Disability": "absent",
+    "Disease": "absent",
+    "Discrimination": "absent",
+    "Political Opinion": "absent",
+    "Gender": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Violence": "absent",
+    "Harrassing": "absent",
+    "Insulting": "rispedisco",
+    "Intimidating": "absent",
+    "Insult": "absent",
+    "Hate": "absent"
+  },
+  {
     "Abuse": "Ma tanto prima i profughi!",
     "Age": "absent",
     "Appearence": "absent",
@@ -56,7 +76,8 @@
     "Violence": "absent",
     "Harrassing": "stop immigrati",
     "Insulting": "stop immigrati",
-    "Intimidating": "stop immigrati"
+    "Intimidating": "stop immigrati",
+    "Insult": "absent"
   },
   {
     "Abuse": "absent",
@@ -106,7 +127,17 @@
     "Hate": "migranti",
     "Insulting": "andare a fare in culo",
     "Harrassing": "infilartelo nel culo",
-    "Intimidating": "infilartelo nel culo"
+    "Intimidating": "infilartelo nel culo",
+    "Ethnicity": "absent",
+    "Violence": "absent",
+    "Disability": "absent",
+    "Discrimination": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "mo' c'ho paura quanno che c'arrivo",
@@ -205,7 +236,8 @@
     "Disability": "absent",
     "Disease": "absent",
     "Gender": "absent",
-    "Political Opinion": "absent"
+    "Political Opinion": "absent",
+    "Sexual Orientation": "absent"
   },
   {
     "Abuse": "cuculo",
@@ -224,7 +256,8 @@
     "Violence": "absent",
     "Harrassing": "cuculo",
     "Insulting": "cuculo",
-    "Intimidating": "cuculo"
+    "Intimidating": "cuculo",
+    "Discrimination": "absent"
   },
   {
     "Abuse": "ladre",
@@ -265,6 +298,26 @@
     "Harrassing": "Sono sempre i musulmani a chiedere la cittadinanza.",
     "Insulting": "Sono sempre i musulmani a chiedere la cittadinanza.",
     "Intimidating": "Sono sempre i musulmani a chiedere la cittadinanza."
+  },
+  {
+    "Abuse": "tutti i musulmani via dalla Francia!!",
+    "Ethnicity": "musulmani",
+    "Hate": "tutti i musulmani via dalla Francia!!",
+    "Discrimination": "tutti i musulmani via dalla Francia!!",
+    "Race": "absent",
+    "Age": "absent",
+    "Appearence": "absent",
+    "Disability": "absent",
+    "Disease": "absent",
+    "Gender": "absent",
+    "Political Opinion": "absent",
+    "Religion": "Islam",
+    "Sexual Orientation": "absent",
+    "Violence": "absent",
+    "Harrassing": "tutti i musulmani via dalla Francia!!",
+    "Insulting": "tutti i musulmani via dalla Francia!!",
+    "Intimidating": "tutti i musulmani via dalla Francia!!",
+    "Insult": "absent"
   },
   {
     "Abuse": "il mondo tiri l'atomica su tutti i rom esistenti",
@@ -392,9 +445,19 @@
     "Hate": "aggredita da gruppo di immigrati",
     "Insult": "nonpagoaffitto",
     "Violence": "aggredita",
-    "Harassing": "iniziamo a fare le ronde",
     "Insulting": "nonpagoaffitto",
-    "Intimidating": "iniziamo a fare le ronde"
+    "Intimidating": "iniziamo a fare le ronde",
+    "Gender": "absent",
+    "Harrassing": "absent",
+    "Disability": "absent",
+    "Discrimination": "absent",
+    "Race": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "non-musulmani",
@@ -437,6 +500,26 @@
     "Intimidating": "Stop profughi"
   },
   {
+    "Abuse": "L'islam",
+    "Hate": "L'islam odia il mondo",
+    "Violence": "eliminarlo definitivamente dalla vita terrena",
+    "Insulting": "L'islam odia il mondo",
+    "Discrimination": "L'islam odia il mondo",
+    "Ethnicity": "absent",
+    "Insult": "absent",
+    "Gender": "absent",
+    "Harrassing": "absent",
+    "Disability": "absent",
+    "Intimidating": "absent",
+    "Race": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
+  },
+  {
     "Abuse": "pedofilia",
     "Ethnicity": "islamica",
     "Hate": "pedofilia è reato da loro è legittimata da cultura islamica",
@@ -453,7 +536,8 @@
     "Age": "absent",
     "Disability": "absent",
     "Disease": "absent",
-    "Gender": "absent"
+    "Gender": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "finti mussulmani",
@@ -552,7 +636,8 @@
     "Violence": "absent",
     "Harrassing": "islamicamente corretto",
     "Insulting": "islamicamente corretto",
-    "Intimidating": "islamicamente corretto"
+    "Intimidating": "islamicamente corretto",
+    "Appearence": "absent"
   },
   {
     "Abuse": "cinesi africani romeni rom o limortacci loro",
@@ -611,7 +696,8 @@
     "Violence": "terroristi",
     "Harrassing": "absent",
     "Insulting": "Gli assassini terroristi",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Discrimination": "absent"
   },
   {
     "Abuse": "infami",
@@ -640,7 +726,18 @@
     "Discrimination": "Di TW",
     "Hate": "Di TW",
     "Insult": "Di TW",
-    "Intimidating": "Di TW"
+    "Intimidating": "Di TW",
+    "Gender": "absent",
+    "Violence": "absent",
+    "Harrassing": "absent",
+    "Disability": "absent",
+    "Insulting": "absent",
+    "Race": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "abbronciati",
@@ -738,7 +835,9 @@
     "Violence": "Pugno di ferro",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "Pugno di ferro"
+    "Intimidating": "Pugno di ferro",
+    "Insult": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "absent",
@@ -827,7 +926,18 @@
     "Discrimination": "tutti i rom",
     "Insult": "tutti i rom",
     "Harrassing": "tutti i rom",
-    "Intimidating": "tutti i rom"
+    "Intimidating": "tutti i rom",
+    "Gender": "absent",
+    "Violence": "absent",
+    "Disability": "absent",
+    "Insulting": "absent",
+    "Race": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "immigrati",
@@ -836,7 +946,18 @@
     "Race": "immigrati",
     "Hate": "cosa ci fanno esattamente qui?",
     "Insult": "cosa ci fanno esattamente qui?",
-    "Absent": "Age, Appearence, Disability, Disease, Discrimination, Gender, Religion, Sexual Orientation, Violence, Harrassing, Insulting, Intimidating"
+    "Gender": "absent",
+    "Violence": "absent",
+    "Harrassing": "absent",
+    "Disability": "absent",
+    "Insulting": "absent",
+    "Intimidating": "absent",
+    "Discrimination": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "un'islamico con la solita faccia di merda di tutti loro",
@@ -864,7 +985,19 @@
     "Hate": "terroristi islamici",
     "Insult": "bastardi e vigliacchi",
     "Race": "arabia nord",
-    "Discrimination": "terroristi islamici"
+    "Discrimination": "terroristi islamici",
+    "Gender": "absent",
+    "Violence": "absent",
+    "Harrassing": "absent",
+    "Disability": "absent",
+    "Insulting": "absent",
+    "Intimidating": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "merde",
@@ -874,7 +1007,17 @@
     "Violence": "terroristiche",
     "Harrassing": "definirei",
     "Insulting": "merde",
-    "Intimidating": "definirei"
+    "Intimidating": "definirei",
+    "Gender": "absent",
+    "Disability": "absent",
+    "Discrimination": "absent",
+    "Race": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "negro",
@@ -933,7 +1076,8 @@
     "Violence": "absent",
     "Harrassing": "Aveva ragione Oriana Fallaci",
     "Insulting": "Aveva ragione Oriana Fallaci",
-    "Intimidating": "Aveva ragione Oriana Fallaci"
+    "Intimidating": "Aveva ragione Oriana Fallaci",
+    "Gender": "absent"
   },
   {
     "Abuse": "L #islam",
@@ -1004,14 +1148,36 @@
     "Violence": "Terroristi",
     "Harrassing": "mandate",
     "Insulting": "Terroristi",
-    "Intimidating": "mandate"
+    "Intimidating": "mandate",
+    "Insult": "absent",
+    "Gender": "absent",
+    "Disability": "absent",
+    "Race": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "portateli tutti a casa tua",
     "Hate": "terroristi o non terroristi",
     "Violence": "portateli tutti a casa tua",
     "Insulting": "Io a casa mia non li voglio",
-    "Intimidating": "portateli tutti a casa tua"
+    "Intimidating": "portateli tutti a casa tua",
+    "Ethnicity": "absent",
+    "Insult": "absent",
+    "Gender": "absent",
+    "Harrassing": "absent",
+    "Disability": "absent",
+    "Discrimination": "absent",
+    "Race": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "Sgozzeranno tutti quelli che non conoscono il corano... anche te!",
@@ -1032,6 +1198,26 @@
     "Harrassing": "Sgozzeranno tutti quelli che non conoscono il corano...",
     "Insulting": "Sgozzeranno tutti quelli che non conoscono il corano... anche te! Ah loro mangino kebab...GUSTOSO KEBAB!",
     "Intimidating": "Sgozzeranno tutti quelli che non conoscono il corano..."
+  },
+  {
+    "Abuse": "Anche oggi salvati 4000 musulmani, saranno i nostri carnefici presto molto presto.",
+    "Age": "absent",
+    "Appearence": "absent",
+    "Disability": "absent",
+    "Disease": "absent",
+    "Ethnicity": "Anche oggi salvati 4000 musulmani",
+    "Gender": "absent",
+    "Hate": "Anche oggi salvati 4000 musulmani, saranno i nostri carnefici presto molto presto. Stop all'invasione dell'Islam",
+    "Insult": "Anche oggi salvati 4000 musulmani, saranno i nostri carnefici presto molto presto",
+    "Political Opinion": "Stop all'invasione dell'Islam",
+    "Race": "Anche oggi salvati 4000 musulmani",
+    "Discrimination": "Anche oggi salvati 4000 musulmani, saranno i nostri carnefici presto molto presto. Stop all'invasione dell'Islam",
+    "Religion": "Anche oggi salvati 4000 musulmani, Stop all'invasione dell'Islam",
+    "Sexual Orientation": "absent",
+    "Violence": "Anche oggi salvati 4000 musulmani, saranno i nostri carnefici presto molto presto",
+    "Harrassing": "Anche oggi salvati 4000 musulmani, saranno i nostri carnefici presto molto presto",
+    "Insulting": "Anche oggi salvati 4000 musulmani, saranno i nostri carnefici presto molto presto",
+    "Intimidating": "Anche oggi salvati 4000 musulmani, saranno i nostri carnefici presto molto presto"
   },
   {
     "Abuse": "infilatevi una gran mano in culo",
@@ -1074,13 +1260,44 @@
     "Intimidating": "bloccando loro il canale finanziario"
   },
   {
+    "Abuse": "avrei lasciato quelle due sgualdrine filo-islamiche lì a marcire, ma avrei spedito anche lui come bonus!",
+    "Age": "absent",
+    "Appearence": "quelle due sgualdrine",
+    "Disability": "absent",
+    "Disease": "absent",
+    "Ethnicity": "filo-islamiche",
+    "Gender": "quelle due sgualdrine",
+    "Hate": "avrei lasciato quelle due sgualdrine filo-islamiche lì a marcire, ma avrei spedito anche lui come bonus!",
+    "Insult": "avrei lasciato quelle due sgualdrine filo-islamiche lì a marcire, ma avrei spedito anche lui come bonus!",
+    "Political Opinion": "absent",
+    "Race": "filo-islamiche",
+    "Discrimination": "avrei lasciato quelle due sgualdrine filo-islamiche lì a marcire, ma avrei spedito anche lui come bonus!",
+    "Religion": "filo-islamiche",
+    "Sexual Orientation": "absent",
+    "Violence": "avrei lasciato quelle due sgualdrine filo-islamiche lì a marcire, ma avrei spedito anche lui come bonus!",
+    "Harrassing": "avrei lasciato quelle due sgualdrine filo-islamiche lì a marcire, ma avrei spedito anche lui come bonus!",
+    "Insulting": "avrei lasciato quelle due sgualdrine filo-islamiche lì a marcire, ma avrei spedito anche lui come bonus!",
+    "Intimidating": "avrei lasciato quelle due sgualdrine filo-islamiche lì a marcire, ma avrei spedito anche lui come bonus!"
+  },
+  {
     "Abuse": "clandestini",
     "Ethnicity": "rom",
     "Race": "rom",
     "Discrimination": "clandestini",
     "Hate": "clandestini",
     "Insult": "clandestini",
-    "Intimidating": "clandestini"
+    "Intimidating": "clandestini",
+    "Gender": "absent",
+    "Violence": "absent",
+    "Harrassing": "absent",
+    "Disability": "absent",
+    "Insulting": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "absent",
@@ -1227,10 +1444,20 @@
     "Ethnicity": "neonazisti",
     "Race": "neonazisti",
     "Hate": "neonazisti",
-    "Islam": "islamici",
     "Religion": "islamici",
     "Political Opinion": "sinistra",
-    "Absent": "Age, Appearence, Disability, Disease, Gender, Discrimination, Sexual Orientation, Violence, Harrassing, Insulting, Intimidating"
+    "Insult": "absent",
+    "Gender": "absent",
+    "Violence": "absent",
+    "Harrassing": "absent",
+    "Disability": "absent",
+    "Insulting": "absent",
+    "Intimidating": "absent",
+    "Discrimination": "absent",
+    "Sexual Orientation": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "BoldrinA questo è ciò che corano le tue",
@@ -1316,7 +1543,21 @@
     "Abuse": "cinese",
     "Ethnicity": "cinese",
     "Race": "cinese",
-    "Discrimination": "gli italiani sono sempre più stranieri in #Italia Ora si capisce perché vengono prima extracomunitari"
+    "Discrimination": "gli italiani sono sempre più stranieri in #Italia Ora si capisce perché vengono prima extracomunitari",
+    "Insult": "absent",
+    "Gender": "absent",
+    "Violence": "absent",
+    "Hate": "absent",
+    "Harrassing": "absent",
+    "Disability": "absent",
+    "Insulting": "absent",
+    "Intimidating": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "migranti e terroristi islamici",
@@ -1375,7 +1616,8 @@
     "Violence": "absent",
     "Harrassing": "i nomadi",
     "Insulting": "i nomadi",
-    "Intimidating": "i nomadi"
+    "Intimidating": "i nomadi",
+    "Insult": "absent"
   },
   {
     "Abuse": "rimpatriare subito tutti gli immigrati irregolari",
@@ -1422,7 +1664,20 @@
     "Ethnicity": "islamici",
     "Hate": "terroristi assassini islamici",
     "Insult": "terroristi",
-    "Violence": "terroristi assassini"
+    "Violence": "terroristi assassini",
+    "Gender": "absent",
+    "Harrassing": "absent",
+    "Disability": "absent",
+    "Insulting": "absent",
+    "Intimidating": "absent",
+    "Discrimination": "absent",
+    "Race": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   },
   {
     "Abuse": "absent",
@@ -1462,7 +1717,27 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimimating": "absent"
+    "Intimidating": "absent"
+  },
+  {
+    "Abuse": "Basta!!!",
+    "Age": "absent",
+    "Appearence": "absent",
+    "Disability": "absent",
+    "Disease": "absent",
+    "Ethnicity": "absent",
+    "Gender": "absent",
+    "Hate": "Basta!!!",
+    "Insult": "Basta!!!",
+    "Political Opinion": "@forza_italia",
+    "Race": "absent",
+    "Discrimination": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Violence": "absent",
+    "Harrassing": "Basta!!!",
+    "Insulting": "Basta!!!",
+    "Intimidating": "Basta!!!"
   },
   {
     "Abuse": "clandestini",
@@ -1481,7 +1756,8 @@
     "Race": "absent",
     "Discrimination": "absent",
     "Religion": "absent",
-    "Sexual Orientation": "absent"
+    "Sexual Orientation": "absent",
+    "Gender": "absent"
   },
   {
     "Abuse": "Sardegna, i migranti prendono per il culo l'Italia",
@@ -1702,5 +1978,25 @@
     "Harrassing": "absent",
     "Insulting": "absent",
     "Intimidating": "absent"
+  },
+  {
+    "Abuse": "sti comunisti",
+    "Ethnicity": "@FCoglioni @erpedrini",
+    "Race": "Algeria Arabia",
+    "Discrimination": "visto che si trovano bene con i loro fratelli islamici",
+    "Hate": "sti comunisti",
+    "Insult": "sti comunisti",
+    "Harrassing": "sti comunisti",
+    "Insulting": "sti comunisti",
+    "Intimidating": "visto che si trovano bene con i loro fratelli islamici",
+    "Gender": "absent",
+    "Violence": "absent",
+    "Disability": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Political Opinion": "absent",
+    "Age": "absent",
+    "Disease": "absent",
+    "Appearence": "absent"
   }
 ]

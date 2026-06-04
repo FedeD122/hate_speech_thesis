@@ -42,7 +42,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -57,7 +56,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -75,9 +75,9 @@
     "Religion": "absent",
     "Sexual Orientation": "absent",
     "Violence": "absent",
-    "Harassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Harrassing": "absent"
   },
   {
     "Abuse": "absent",
@@ -122,7 +122,6 @@
   {
     "Abuse": "infilartelo nel culo",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "migranti",
@@ -137,7 +136,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -182,7 +182,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -197,12 +196,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -217,12 +216,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -237,12 +236,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "ebreo Zuckerberg ebrei ebrei",
@@ -257,12 +256,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "rom",
@@ -277,7 +276,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -342,7 +342,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -357,12 +356,12 @@
     "Violence": "danni",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -377,7 +376,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "stronzi",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -395,9 +395,9 @@
     "Religion": "islamici",
     "Sexual Orientation": "absent",
     "Violence": "danni immensi",
-    "Harassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Harrassing": "absent"
   },
   {
     "Abuse": "absent",
@@ -422,7 +422,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -437,12 +436,12 @@
     "Violence": "condannati a morte",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "condannati a morte"
+    "Intimidating": "condannati a morte",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "immigrati",
@@ -457,12 +456,12 @@
     "Violence": "aggredita",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "iniziamo a fare le ronde"
+    "Intimidating": "iniziamo a fare le ronde",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -477,12 +476,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -497,12 +496,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -516,12 +515,13 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent",
+    "Discrimination": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -536,7 +536,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -601,7 +602,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "stranieri",
@@ -616,12 +616,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -636,12 +636,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "cinesi africani  romeni rom o limortacci",
@@ -656,7 +656,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -675,12 +676,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Discrimination": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "islamici",
@@ -695,7 +696,8 @@
     "Violence": "assassini terroristi",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -720,7 +722,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -735,7 +736,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -793,14 +795,13 @@
     "Religion": "absent",
     "Sexual Orientation": "absent",
     "Violence": "absent",
-    "Harassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Harrassing": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -815,7 +816,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -840,7 +842,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "Roma",
@@ -855,12 +856,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "profugo irascibile che non si calma neppure di fronte a 3 Carabinieri, al suo Paese sarebbe \"ai piombi\" con le os…",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -875,7 +876,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -900,7 +902,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -915,12 +916,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "rom",
@@ -935,12 +936,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "immigrati",
@@ -955,7 +956,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1000,7 +1002,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1015,7 +1016,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1040,7 +1042,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1055,7 +1056,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1094,7 +1096,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Discrimination": "absent"
   },
   {
     "Abuse": "absent",
@@ -1119,7 +1122,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1134,12 +1136,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "musulmani",
@@ -1154,12 +1156,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "terroristi o non terroristi",
@@ -1174,12 +1176,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1194,12 +1196,12 @@
     "Violence": "sgozzeranno",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "sgozzeranno tutti quelli che non conoscono il corano... anche te!"
+    "Intimidating": "sgozzeranno tutti quelli che non conoscono il corano... anche te!",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1214,12 +1216,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1234,12 +1236,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1254,12 +1256,12 @@
     "Violence": "usare la forza",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "bloccando loro il canale finanziario"
+    "Intimidating": "bloccando loro il canale finanziario",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "filo-islamiche",
@@ -1274,7 +1276,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1312,9 +1315,9 @@
     "Religion": "absent",
     "Sexual Orientation": "absent",
     "Violence": "absent",
-    "Harassment": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Harrassing": "absent"
   },
   {
     "Abuse": "absent",
@@ -1379,7 +1382,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "tubercolosi",
     "Ethnicity": "absent",
@@ -1394,12 +1396,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "Fanno quel che cazzo vogliono... ",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "immigrati #rom",
@@ -1414,7 +1416,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1432,9 +1435,9 @@
     "Religion": "absent",
     "Sexual Orientation": "absent",
     "Violence": "absent",
-    "Harassment": "absent",
     "Insulting": "incazzata",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Harrassing": "absent"
   },
   {
     "Abuse": "absent",
@@ -1472,14 +1475,13 @@
     "Religion": "corano",
     "Sexual Orientation": "absent",
     "Violence": "absent",
-    "Harassment": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Harrassing": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "mussulmani",
@@ -1494,7 +1496,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1519,7 +1522,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1534,12 +1536,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1554,7 +1556,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1579,7 +1582,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1594,7 +1596,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1619,7 +1622,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1634,7 +1636,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1659,7 +1662,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "islamici",
@@ -1674,6 +1676,27 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "assassini",
+    "Intimidating": "absent",
+    "Appearance": "absent"
+  },
+  {
+    "Abuse": "absent",
+    "Age": "absent",
+    "Appearance": "absent",
+    "Disability": "absent",
+    "Disease": "absent",
+    "Ethnicity": "absent",
+    "Gender": "absent",
+    "Hate": "absent",
+    "Insult": "absent",
+    "Political Opinion": "La politica che si adotta e' ormai chiara: lasciare al destino della morte gli italiani e accogliere stranieri che portano sovvenzionamenti.",
+    "Race": "absent",
+    "Discrimination": "absent",
+    "Religion": "absent",
+    "Sexual Orientation": "absent",
+    "Violence": "absent",
+    "Harrassing": "absent",
+    "Insulting": "absent",
     "Intimidating": "absent"
   },
   {
@@ -1719,7 +1742,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1734,12 +1756,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "algerini",
@@ -1754,12 +1776,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "migranti prendono per il culo l'Italia",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "musulmani",
@@ -1774,12 +1796,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "marocchini",
@@ -1794,12 +1816,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "via dall Italia!!!!",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1814,12 +1836,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1834,7 +1856,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "scoppia la bufera"
+    "Intimidating": "scoppia la bufera",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1852,9 +1875,9 @@
     "Religion": "absent",
     "Sexual Orientation": "absent",
     "Violence": "absent",
-    "Harassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Harrassing": "absent"
   },
   {
     "Abuse": "absent",
@@ -1879,7 +1902,6 @@
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1894,12 +1916,12 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1914,7 +1936,8 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   },
   {
     "Abuse": "absent",
@@ -1952,14 +1975,13 @@
     "Religion": "absent",
     "Sexual Orientation": "absent",
     "Violence": "absent",
-    "Harassment": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Harrassing": "absent"
   },
   {
     "Abuse": "absent",
     "Age": "absent",
-    "Appearence": "absent",
     "Disability": "absent",
     "Disease": "absent",
     "Ethnicity": "absent",
@@ -1974,6 +1996,7 @@
     "Violence": "absent",
     "Harrassing": "absent",
     "Insulting": "absent",
-    "Intimidating": "absent"
+    "Intimidating": "absent",
+    "Appearance": "absent"
   }
 ]

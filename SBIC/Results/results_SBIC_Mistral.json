@@ -320,6 +320,26 @@
     "Culture": "absent"
   },
   {
+    "Offensiveness": "white coke whores",
+    "Intent to offend": "white coke whores",
+    "Group Implications": "white people, women, and possibly a specific age group (from the 80's to the 2000's)",
+    "Implied statement": "The fashion, the thinness, the money",
+    "Lewd/Sexual References": "white coke whores",
+    "In-group language": "aesthetic, the thinness, the money",
+    "Ethnicity": "white",
+    "Race": "white",
+    "Disability": "absent",
+    "Body": "thinness",
+    "Age": "from the 80's to the 2000's",
+    "Political": "absent",
+    "Social": "aesthetic, the thinness, the money",
+    "Victims": "absent",
+    "Gender": "female",
+    "Religion": "absent",
+    "Sexuality": "absent",
+    "Culture": "absent"
+  },
+  {
     "Offensiveness": "absent",
     "Intent to offend": "absent",
     "Group Implications": "absent",
@@ -615,7 +635,9 @@
     "Ethnicity": "absent",
     "Race": "absent",
     "Lewd/Sexual References": "absent",
-    "In-group language": "absent"
+    "In-group language": "absent",
+    "Group Implications": "absent",
+    "Implied statement": "absent"
   },
   {
     "Offensiveness": "Dead weight",
