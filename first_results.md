@@ -9,8 +9,8 @@ Scelgo una delle annotazioni come gold standard (la mia in questo caso) e calcol
 Alla fine macro-average tra i risultati per ogni componente
 
 **Testi totali considerati:** 100  
-**Gold Standard:** Federica.json  
-**Predizioni (Annotatori):** 2  
+**Gold Standard:** Federica 
+**Annotatori:** 2  
 
 | Label | precision | recall | f1 score |
 | :--- | :---: | :---: | :---: |
