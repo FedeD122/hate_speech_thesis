@@ -1,4 +1,4 @@
-# Krippendorff's alpha
+# Krippendorff's alpha solo target (presente/assente per i modelli)
  
 | categoria          |   Annotatori + Llama |   Annotatori + Mistral |   Annotatori + Qwen |   Solo annotatori |
 |:-------------------|---------------------:|-----------------------:|--------------------:|------------------:|
