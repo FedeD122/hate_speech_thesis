@@ -1,4 +1,4 @@
-# Cohen's kappa solo targets 
+# Cohen's kappa
 
 ## Annotatori
  
@@ -62,15 +62,10 @@
 | Sexual Orientation |         0.5798 |
 | OVERALL            |         0.6712 |
 
-<<<<<<< HEAD:risultati annotazione/cohens_kappa_report.md
  
 ![Cohen's kappa annotatori](cohens_kappa_annotatori.png)
-=======
-<img src="images/cohens_kappa_annotatori.png" alt="Cohen's kappa annotatori" height="250px" length="250px">
 
->>>>>>> e292b0d980683705df628e15e7f81f5f7231c209:risultati annotazione/cohens_kappa_solotargets.md
-
-## Modelli con richiesta secca (presente/assente)
+## Modelli
  
 **Arianna vs Llama**
 
@@ -192,12 +187,8 @@
 | Sexual Orientation |         0.6933 |
 | OVERALL            |         0.5812 |
 
-<<<<<<< HEAD:risultati annotazione/cohens_kappa_report.md
  
 ![Cohen's kappa modelli](cohens_kappa_modelli.png)
-=======
-<img src="images/cohens_kappa_modelli.png" alt="Cohen's kappa modelli" height="500px" length="500px">
->>>>>>> e292b0d980683705df628e15e7f81f5f7231c209:risultati annotazione/cohens_kappa_solotargets.md
 
 ## Kappa medio per modello
  
@@ -207,3 +198,6 @@
 | Mistral   |               0.5789 |
 | Llama     |               0.4704 |
 
+## Tutti insieme
+ 
+![Cohen's kappa tutti insieme](cohens_kappa_tutti_insieme.png)
