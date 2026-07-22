@@ -56,7 +56,7 @@
 | Religion           |         0.646  |
 | Sexual Orientation |         0.5798 |
 
-<img src="images/cohens_kappa_annotatori.png" alt="Cohen's kappa annotatori" height="150px">
+<img src="images/cohens_kappa_annotatori.png" alt="Cohen's kappa annotatori" height="250px" length="250px">
 
 
 ## Modelli con richiesta secca (presente/assente)
@@ -169,6 +169,6 @@
 | Religion           |         0.5192 |
 | Sexual Orientation |         0.6933 |
 
-<img src="images/cohens_kappa_modelli.png" alt="Cohen's kappa modelli" height="250px">
+<img src="images/cohens_kappa_modelli.png" alt="Cohen's kappa modelli" height="500px" length="500px">
 
 
