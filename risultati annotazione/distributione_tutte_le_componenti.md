@@ -1,4 +1,4 @@
-# Distribuzione dei target
+# Distribuzione di tutte le componenti nei 100 esempi
 
 ## Annotatori
  
