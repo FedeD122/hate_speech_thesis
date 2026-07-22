@@ -1,4 +1,4 @@
-# Cohen's kappa
+# Cohen's kappa solo targets 
 
 ## Annotatori
  
@@ -59,7 +59,7 @@
 <img src="images/cohens_kappa_annotatori.png" alt="Cohen's kappa annotatori" height="150px">
 
 
-## Modelli
+## Modelli con richiesta secca (presente/assente)
  
 **Arianna vs Llama**
 
