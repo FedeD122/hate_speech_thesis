@@ -15,7 +15,7 @@
 | Support for hateful entities |        19 |         23 |          1 |         18 |
 | Threatening language         |        23 |         21 |         10 |         16 |
 
-<img src="images/distribution_annotatori.png" alt="Distribuzione target annotatori" height="250px" length="250px">
+<img src="images/distribution_annotatori.png" alt="Distribuzione target annotatori" height="400px" length="350px">
 
 ## Modelli
  
@@ -33,4 +33,4 @@
 | Threatening language         |      21 |        30 |     10 |
  
 
-<img src="images/distribution_modelli.png" alt="Distribuzione target modelli" height="250px" length="250px">
+<img src="images/distribution_modelli.png" alt="Distribuzione target modelli" height="350px" length="350px">
