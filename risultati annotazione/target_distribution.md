@@ -9,7 +9,7 @@
 | Religion           |        10 |         14 |          5 |          7 |
 | Sexual Orientation |        10 |         11 |          6 |          4 |
  
-<img src="images/target_distribution_annotatori.png" alt="Distribuzione target annotatori" height="250px">
+<img src="images/target_distribution_annotatori.png" alt="Distribuzione target annotatori" height="350px" length="350">
 
 
 ## Modelli
@@ -21,7 +21,7 @@
 | Religion           |      24 |        14 |      6 |
 | Sexual Orientation |      18 |        10 |      8 |
  
-<img src="images/target_distribution_modelli.png" alt="Distribuzione target modelli" height="250px">
+<img src="images/target_distribution_modelli.png" alt="Distribuzione target modelli" height="350px" length="350">
 
 
 
