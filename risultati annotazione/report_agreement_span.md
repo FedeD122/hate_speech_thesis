@@ -1,4 +1,4 @@
-# Report agreement
+# Report agreement con krippendoff alpha e cohen's kappa per span labelling
 
 ## Krippendorff's alpha — solo annotatori
  
@@ -16,7 +16,7 @@
 | Dehumanization               |               0.6192 |
 | overall                      |               0.4795 |
  
-<img src="images/alpha_solo_umani.png" alt="Krippendorff's alpha solo annotatori" height="200px">
+<img src="images/alpha_solo_umani.png" alt="Krippendorff's alpha solo annotatori" height="300px" length="300px">
 
 
 ## Cohen's kappa — solo annotatori
@@ -84,7 +84,7 @@
 | Dehumanization               | Federica  | Federico  |         0.6173 |
 | Dehumanization               | Katerina  | Federico  |         0.6271 |
  
-<img src="images/kappa_solo_umani.png" alt="Cohen's kappa solo annotatori" height="250px">
+<img src="images/kappa_solo_umani.png" alt="Cohen's kappa solo annotatori" height="500px" length="500px">
 
 ## Krippendorff's alpha — annotatori + ciascun modello
  
@@ -102,5 +102,5 @@
 | Threatening language         |   0.45  |     0.395 |  0.384 |
 | OVERALL                      |   0.392 |     0.353 |  0.433 |
  
-<img src="images/alpha_umani_vs_modelli.png" alt="Krippendorff's alpha annotatori + modelli" height="280px">
+<img src="images/alpha_umani_vs_modelli.png" alt="Krippendorff's alpha annotatori + modelli" height="500px" length="500px">
 
