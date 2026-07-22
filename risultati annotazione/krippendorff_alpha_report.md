@@ -8,4 +8,4 @@
 | Sexual Orientation |               0.5258 |                 0.6239 |              0.5976 |            0.5931 |
 | overall            |               0.6073 |                 0.6506 |              0.6588 |            0.6835 |
  
-<img src="images/krippendorff_alpha_targets.png" alt="Krippendorff's alpha" height="200px">
+<img src="images/krippendorff_alpha_targets.png" alt="Krippendorff's alpha" height="350px" length="450px">
