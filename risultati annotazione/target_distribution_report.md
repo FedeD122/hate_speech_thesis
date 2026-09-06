@@ -1,28 +1,37 @@
 # Distribuzione dei target
 
 ## Annotatori
- 
+
 | categoria          |   Arianna |   Federica |   Federico |   Katerina |
 |:-------------------|----------:|-----------:|-----------:|-----------:|
 | Ethnicity          |        50 |         47 |         33 |         36 |
 | Gender             |        15 |         17 |         14 |         15 |
 | Religion           |        10 |         14 |          5 |          7 |
 | Sexual Orientation |        10 |         11 |          6 |          4 |
- 
+
 <img src="images/target_distribution_annotatori.png" alt="Distribuzione target annotatori" height="350px" length="350">
 
-
 ## Modelli
- 
+
 | categoria          |   Llama |   Mistral |   Qwen |
 |:-------------------|--------:|----------:|-------:|
 | Ethnicity          |      72 |        61 |     43 |
 | Gender             |      26 |        23 |     24 |
 | Religion           |      24 |        14 |      6 |
 | Sexual Orientation |      18 |        10 |      8 |
- 
+
 <img src="images/target_distribution_modelli.png" alt="Distribuzione target modelli" height="350px" length="350">
 
+## Modelli Few-Shot
+
+| categoria          |   Llama |   Mistral |   Qwen |
+|:-------------------|--------:|----------:|-------:|
+| Ethnicity          |      74 |        53 |     56 |
+| Gender             |      28 |        23 |     18 |
+| Religion           |      23 |        14 |      9 |
+| Sexual Orientation |      19 |        11 |     10 |
+
+<img src="images/target_distribution_modelli_fewshot.png" alt="Distribuzione target modelli" height="350px" length="350">
 
 
 ## Targets samples dataset
