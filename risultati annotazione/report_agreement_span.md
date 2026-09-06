@@ -14,7 +14,7 @@
 | Threatening language         |               0.4127 |
 | Support for hateful entities |               0.3118 |
 | Dehumanization               |               0.6192 |
-| overall                      |               0.4795 |
+| OVERALL                      |               0.4795 |
  
 <img src="images/alpha_solo_umani.png" alt="Krippendorff's alpha solo annotatori" height="300px" length="300px">
 
