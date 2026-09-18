@@ -509,3 +509,8 @@
 | OVERALL                      |         0.2351 |
 
 <img src="images/cohens_kappa_fewshot.png" alt="Cohen's kappa fewshot" height="350px" length="350px">
+
+
+<img src="images/cohens_kappa_fewshot3.png" alt="Cohen's kappa fewshot Mistral 5 esempi" height="250px" length="250px">
+
+<img src="images/cohens_kappa_fewshot2.png" alt="Cohen's kappa fewshot Llama 10 esempi" height="250px" length="250px">
