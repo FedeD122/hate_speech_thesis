@@ -17,8 +17,9 @@
 | OVERALL                      |                  0.4795 |
 
 <img src="images/krippendorff_alpha_annotatori.png" alt="Krippendorff's alpha Umani" height="350px" length="450px">
----
-## Umani + Modelli Zero-Shot
+
+
+## Umani e Modelli Zero-Shot
 
 | categoria                    |   Annotatori + Llama |   Annotatori + Mistral |   Annotatori + Qwen |
 |:-----------------------------|---------------------:|-----------------------:|--------------------:|
@@ -36,8 +37,8 @@
 
 <img src="images/krippendorff_alpha_zeroshot.png" alt="Krippendorff's alpha Zero-Shot" height="350px" length="450px">
 
----
-## Umani + Modelli Few-Shot
+
+## Umani e Modelli Few-Shot
 
 | categoria                    |   Annotatori + Llama |   Annotatori + Mistral |   Annotatori + Qwen |
 |:-----------------------------|---------------------:|-----------------------:|--------------------:|
