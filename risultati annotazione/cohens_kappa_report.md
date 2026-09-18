@@ -107,7 +107,7 @@
 | modello   |   Kappa Medio |
 |:----------|--------------:|
 | Llama     |        0.3193 |
-| Mistral   |        0.3237 |
+| **Mistral**   |        **0.3237** |
 | Qwen      |        0.3046 |
 
 ### Dettaglio per Coppie
@@ -312,7 +312,7 @@
 | modello   |   Kappa Medio |
 |:----------|--------------:|
 | Llama     |        0.3311 |
-| Mistral   |        0.3895 |
+| **Mistral**   |        **0.3895** |
 | Qwen      |        0.3307 |
 
 ### Dettaglio per Coppie
