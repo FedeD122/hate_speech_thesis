@@ -515,3 +515,5 @@
 
 ## Llama (10 esempi)
 <img src="images/cohens_kappa_fewshot2.png" alt="Cohen's kappa fewshot Llama 10 esempi" height="250px" length="250px">
+
+Media : 0,357
