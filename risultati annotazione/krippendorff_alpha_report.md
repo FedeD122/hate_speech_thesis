@@ -55,3 +55,17 @@
 | **OVERALL**                      |               **0.4457** |                 **0.4149** |              **0.4592** |
 
 <img src="images/krippendorff_alpha_fewshot.png" alt="Krippendorff's alpha fewshot" height="350px" length="450px">
+
+| categoria                    |Umani + Llama(10 esempi) |
+|:-----------------------------|------------------------:|
+| Abuse                        |                  0.0218 |
+| Animosity                    |                  0.0636 |
+| Dehumanization               |                  0.516  |
+| Derogation                   |                  0.337  |
+| Ethnicity                    |                  0.544  |
+| Gender                       |                  0.7029 |
+| Religion                     |                  0.5533 |
+| Sexual Orientation           |                  0.6155 |
+| Support for hateful entities |                  0.3114 |
+| Threatening language         |                  0.453  |
+| **OVERALL**                      |                  **0.46** |
