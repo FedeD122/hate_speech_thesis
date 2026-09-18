@@ -100,7 +100,7 @@
 
 <img src="images/cohens_kappa_annotatori.png" alt="Cohen's kappa annotatori" height="250px" length="250px">
 ---
-## Umani + Modelli Zero-Shot
+## Umani e Modelli Zero-Shot
 
 ### Kappa Medio per Modello
 | modello   |   Kappa Medio |
@@ -304,7 +304,7 @@
 
 <img src="images/cohens_kappa_zeroshot.png" alt="Cohen's kappa zeroshot" height="250px" length="250px">
 ---
-## Umani + Modelli Few-Shot
+## Umani e Modelli Few-Shot
 
 ### Kappa Medio per Modello
 | modello   |   Kappa Medio |
