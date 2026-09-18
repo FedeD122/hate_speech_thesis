@@ -16,4 +16,4 @@ Questo procedimento per ogni annotazione.
 | Federico                |  0.217  |     0.293 | 0.273  |
 | OVERALL                 |  0.1978 |     0.266 | 0.2285 |
 
-<img src="f1_score_span_modelli.png" alt="F1-Score Modelli" height="150px" length="250">
+<img src="images/span_modelli.png" alt="F1-Score Modelli" height="150px" length="250">
