@@ -1,4 +1,4 @@
-#Cohen's Kappa
+# Cohen's Kappa
 
 ## Solo Annotatori Umani
 
@@ -99,7 +99,8 @@
 | OVERALL                      |         0.3652 |
 
 <img src="images/cohens_kappa_annotatori.png" alt="Cohen's kappa annotatori" height="250px" length="250px">
----
+
+
 ## Umani e Modelli Zero-Shot
 
 ### Kappa Medio per Modello
@@ -302,8 +303,9 @@
 | Dehumanization               |         0.2672 |
 | OVERALL                      |         0.2198 |
 
-<img src="images/cohens_kappa_zeroshot.png" alt="Cohen's kappa zeroshot" height="250px" length="250px">
----
+<img src="images/cohens_kappa_zeroshot.png" alt="Cohen's kappa zeroshot" height="350px" length="350px">
+
+
 ## Umani e Modelli Few-Shot
 
 ### Kappa Medio per Modello
@@ -506,4 +508,4 @@
 | Dehumanization               |         0.3045 |
 | OVERALL                      |         0.2351 |
 
-<img src="images/cohens_kappa_fewshot.png" alt="Cohen's kappa fewshot" height="250px" length="250px">
+<img src="images/cohens_kappa_fewshot.png" alt="Cohen's kappa fewshot" height="350px" length="350px">
