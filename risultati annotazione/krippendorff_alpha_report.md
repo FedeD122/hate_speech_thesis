@@ -14,7 +14,7 @@
 | Sexual Orientation           |                  0.5931 |
 | Support for hateful entities |                  0.3118 |
 | Threatening language         |                  0.4127 |
-| OVERALL                      |                  0.4795 |
+| **OVERALL**                      |                  **0.4795** |
 
 <img src="images/krippendorff_alpha_annotatori.png" alt="Krippendorff's alpha Umani" height="350px" length="450px">
 
@@ -33,7 +33,7 @@
 | Sexual Orientation           |               0.5248 |                 0.6239 |              0.5048 |
 | Support for hateful entities |               0.2789 |                 0.3394 |              0.3288 |
 | Threatening language         |               0.4503 |                 0.4165 |              0.3972 |
-| OVERALL                      |               0.3947 |                 0.3467 |              0.4334 |
+| **OVERALL**                      |               **0.3947** |                 **0.3467** |              **0.4334** |
 
 <img src="images/krippendorff_alpha_zeroshot.png" alt="Krippendorff's alpha Zero-Shot" height="350px" length="450px">
 
@@ -52,6 +52,6 @@
 | Sexual Orientation           |               0.5757 |                 0.642  |              0.5401 |
 | Support for hateful entities |               0.2955 |                 0.3413 |              0.3119 |
 | Threatening language         |               0.4575 |                 0.4203 |              0.432  |
-| OVERALL                      |               0.4457 |                 0.4149 |              0.4592 |
+| **OVERALL**                      |               **0.4457** |                 **0.4149** |              **0.4592** |
 
 <img src="images/krippendorff_alpha_fewshot.png" alt="Krippendorff's alpha fewshot" height="350px" length="450px">
