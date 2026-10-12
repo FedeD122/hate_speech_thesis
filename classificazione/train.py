@@ -29,8 +29,7 @@ task = Registry.from_key(
     embeddings="classificazione/glove.twitter.27B.25d.txt",
     )
 
-start = time.time()
+
 task.run()
-end = time.time()
-print(f"Execution time: {end - start:.2f} seconds")
+
 
