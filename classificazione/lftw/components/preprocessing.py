@@ -37,8 +37,7 @@ def tokenize_with_offsets(text: str):
 
 
 def build_highlight_vector(text: str, row, categories: list = None) -> list:
-    """Unione delle categorie indicate: 1 se il token cade in almeno uno span estratto.
-    Se categories è None, usa tutte le TARGET_CATS (comportamento originale)."""
+    """Unione delle categorie indicate: 1 se il token cade in almeno uno span estratto."""
     cats = categories if categories is not None else TARGET_CATS
 
     token_spans = tokenize_with_offsets(text)
@@ -60,9 +59,7 @@ def clean_and_union_spans(spans_list):
     valid_spans = set()
     for s in spans_list:
         if isinstance(s, str) and s.strip().lower() != "absent":
-            cleaned = s.strip().strip('"').strip("'").strip()
-            if cleaned:
-                valid_spans.add(cleaned)
+            valid_spans.add(s)
     if not valid_spans:
         return "absent"
         
