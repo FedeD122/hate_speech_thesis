@@ -139,5 +139,12 @@ media token: 23.934488206748675
 | test_sparsity          |  0.20569635927677155|
 
 
+<img src="plots/train_loss_comparison.png" alt="Train Loss" height="350px" length="350">
 
+<img src="plots/val_loss_comparison.png" alt="Validation Loss" height="350px" length="350">
 
+<img src="plots/val_f1_comparison.png" alt="Validation F1" height="350px" length="350">
+
+<img src="plots/val_highlight_f1_comparison.png" alt="Validation Highlight F1" height="350px" length="350">
+
+<img src="plots/val_selection_rate_comparison.png" alt="Validation Selection Rate" height="350px" length="350">
