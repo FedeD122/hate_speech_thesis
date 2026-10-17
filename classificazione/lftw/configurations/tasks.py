@@ -19,49 +19,34 @@ from lftw.configurations.keys import (
     LFTW_GENDER_FR,
     LFTW_RELIGION_FR,
     LFTW_SEXOR_FR,
-    EARLY_STOPPING, 
-    CHECKPOINT
+    LFTW_POSITIVE_METRIC,
+    LFTW_NEGATIVE_METRIC
+
 )
 
 from cinnamon.registry import RegistrationKey, register_class
 from lightning.pytorch.callbacks import Callback
 from pyhighlights.components.models.base import Model
-from pyhighlights.utility.metrics import BoundMetric
+from pyhighlights.utility.metrics import BoundMetric, build_metrics
 from pyhighlights.configurations.keys import (
     F1_METRIC,
     HIGHLIGHT_F1_METRIC,
     SELECTION_RATE_METRIC,
     SELECTION_SIZE_METRIC,
-    GRU_FR,
+    LOSS_EARLY_STOPPING,
+    LOSS_CHECKPOINT,
 )
 
-BINARY_METRICS = [
-    F1_METRIC,
+HIGHLIGHT_METRICS = [
     HIGHLIGHT_F1_METRIC,
     SELECTION_RATE_METRIC,
     SELECTION_SIZE_METRIC,
+    LFTW_POSITIVE_METRIC,
+    LFTW_NEGATIVE_METRIC
 ]
 
-@register_class(
-    name="callback",
-    tags={"early_stopping"},
-    namespace=NAMESPACE,
-    component="pyhighlights.components.callbacks.WarmupEarlyStopping",
-)
-class LFTWEarlyStoppingConfig(Configuration):
-    monitor: str = Param("val_loss")
-    mode: str = Param("min")
-    patience: int = Param(30, ge=0)
+BINARY_METRICS = [F1_METRIC, *HIGHLIGHT_METRICS]
 
-@register_class(
-    name="callback",
-    tags={"checkpoint"},
-    namespace=NAMESPACE,
-    component="pyhighlights.components.callbacks.WarmupModelCheckpoint",
-)
-class LFTWCheckpointConfig(Configuration):
-    monitor: str = Param("val_loss")
-    mode: str = Param("min")
 
 @register_class(
     name="task",
@@ -78,7 +63,7 @@ class LFTW_FR_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
 
     batch_size: int = Param(64, ge=1)
@@ -88,6 +73,8 @@ class LFTW_FR_TaskConfig(Configuration):
 
     val_metrics: List[RegistrationKey[BoundMetric]] = Param(BINARY_METRICS)
     test_metrics: List[RegistrationKey[BoundMetric]] = Param(BINARY_METRICS)
+
+
     
     trainer_args: dict = Param({
         "accelerator": "cpu", 
@@ -109,7 +96,7 @@ class LFTW_MCD_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
     
     batch_size: int = Param(64, ge=1)
@@ -143,7 +130,7 @@ class LFTW_ETHNICITY_FR_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
 
     batch_size: int = Param(64, ge=1)
@@ -175,7 +162,7 @@ class LFTW_ETHNICITY_TEST2_FR_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
 
     batch_size: int = Param(64, ge=1)
@@ -206,7 +193,7 @@ class LFTW_ETHNICITY_MCD_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
 
     batch_size: int = Param(64, ge=1)
@@ -238,7 +225,7 @@ class LFTW_GENDER_FR_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
 
     batch_size: int = Param(64, ge=1)
@@ -270,7 +257,7 @@ class LFTW_GENDER_TEST2_FR_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
 
     batch_size: int = Param(64, ge=1)
@@ -302,7 +289,7 @@ class LFTW_RELIGION_FR_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
 
     batch_size: int = Param(64, ge=1)
@@ -334,7 +321,7 @@ class LFTW_RELIGION_TEST2_FR_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
 
     batch_size: int = Param(64, ge=1)
@@ -366,7 +353,7 @@ class LFTW_SEXOR_FR_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
 
     batch_size: int = Param(64, ge=1)
@@ -398,7 +385,7 @@ class LFTW_SEXOR_TEST2_FR_TaskConfig(Configuration):
     embeddings: str | None = Param(None)
     vocabulary_from: str = Param("vectors")
     callbacks: List[RegistrationKey[Callback]] = Param(
-        [EARLY_STOPPING, CHECKPOINT]
+        [LOSS_EARLY_STOPPING, LOSS_CHECKPOINT]
     )
 
     batch_size: int = Param(64, ge=1)
@@ -410,6 +397,10 @@ class LFTW_SEXOR_TEST2_FR_TaskConfig(Configuration):
     test_metrics: List[RegistrationKey[BoundMetric]] = Param(BINARY_METRICS)
 
     trainer_args: dict = Param({
+        "accelerator": "cpu",
+        "max_epochs": 100,
+        "log_every_n_steps": 10,
+    })
         "accelerator": "cpu",
         "max_epochs": 100,
         "log_every_n_steps": 10,
