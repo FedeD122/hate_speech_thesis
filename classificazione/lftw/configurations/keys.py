@@ -5,9 +5,6 @@ NAMESPACE = "lftw"
 def key(name: str, *tags: str) -> RegistrationKey:
     return RegistrationKey(name=name, tags=set(tags), namespace=NAMESPACE)
 
-EARLY_STOPPING = key("callback", "early_stopping")
-CHECKPOINT = key("callback", "checkpoint")
-
 LFTW = key("dataset", "lftw")
 LFTW_TEST2 = key("dataset", "lftw", "test2")
 LFTW_ETHNICITY = key("dataset", "lftw", "ethnicity")
@@ -55,3 +52,8 @@ FULL_CLASSIFICATION_LOSS_ETHNICITY = key("loss", "classification", "full", "ethn
 CROSS_ENTROPY_GENDER_LOSS = key("loss", "classification", "gender", "lftw")
 CROSS_ENTROPY_RELIGION_LOSS = key("loss", "classification", "religion", "lftw")
 CROSS_ENTROPY_SEXOR_LOSS = key("loss", "classification", "sexual_orientation", "lftw")
+
+LFTW_POSITIVE = key("torchmetric", "lftw", "selection_rate_pos")
+LFTW_NEGATIVE = key("torchmetric", "lftw", "selection_rate_neg")
+LFTW_POSITIVE_METRIC = key("metric", "lftw", "selection_rate_pos")
+LFTW_NEGATIVE_METRIC = key("metric", "lftw", "selection_rate_neg")
